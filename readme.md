@@ -1,0 +1,1 @@
+-  ./node_modules/babel/bin/babel.js  index.js  -d ./dist 编译es6代码为es5  
